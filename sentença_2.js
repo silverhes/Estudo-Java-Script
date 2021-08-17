@@ -1,0 +1,1 @@
+console.log('teste de concatenação de texto '+ (1+1) +' funcionou');

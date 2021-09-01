@@ -7,10 +7,11 @@ prod1['Desconto legal'] = 0.4 //identificadores com espaço MAS TEM QUE SER EVIT
 
 console.log(prod1)
 
-const prod2 {//outra forma de criar atributos
-    nome: 'Camisa Polo'
-    preco: 79.90
-}
+const prod2 = {
+    nome ='Camisa Polo',
+    preco = 79.90,
+    loja = 'samsung'
+}//outra forma de criar atributos separando por vírgulas
 
 console.log((prod2))
 
